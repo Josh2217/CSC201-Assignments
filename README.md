@@ -1,7 +1,13 @@
 # CSC201-Assignments
 Literally just my solutions to the CSC201 Assignments
 
-Please don't steal these solutions and try to pass them off as your own. If you do I'll be very sad, and may get in trouble. If you're inspired to use "similar methods" as I did, at least change how the code flows so I don't get in trouble.
+I will post one well written and well commented solution for every assignment I recieve this semester, and then most likely I will be posting some obfuscated code golf solutions as well.
+
+You can run the batch files in the `.build` directory to run the code for each assignment, or if you are more comfortable in the terminal you can do your own thing with the source code. 
+
+I'm inclined to say this falls under the widly loved license: WTFPL. Do whatever you want, but I will say one thing...
+
+Plagiarism is bad: please don't steal these solutions and try to pass them off as your own. If you do I'll be very sad and may get in trouble. If you're inspired to use "similar methods" as I did, I don't care. That being said, please don't copy me verbatim because as I stated earlier, plagiarism is bad.
 
 Thanks
 
