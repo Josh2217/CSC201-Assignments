@@ -1,0 +1,16 @@
+golf 
+ 
+Enter3Ints:1 2 3
+sum_6
+avg_2.0
+prod_6
+#2>=#1
+SumWins
+LuckyDuck
+1
+2
+3
+4
+5
+ 
+Enter3Ints:

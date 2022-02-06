@@ -1,0 +1,25 @@
+standard 
+ 
+============
+Josh Johnson
+============
+
+Input three integers seperated by whitespace: 1 2 3
+their average is 2.00
+their sum is 6
+their product is 6
+
+#2 is greater than or equal to #1
+sum wins!
+lucky ducky
+
+
+Now to prove I haven't forgotten how to use for loops:
+
+1
+2
+3
+4
+5
+
+It's good to be back
