@@ -10,8 +10,13 @@ set SRC=.\src\assignment04
 echo standard solution > %STDOUT%
 echo: >> %STDOUT%
 echo ``` >> %STDOUT%
-echo: >> %STDOUT%
 echo you'll need to input an integer here
 java %SRC%\Assignment4.java >> %STDOUT%
-echo: >> %STDOUT%
 echo ``` >> %STDOUT%
+
+echo golf solution > %GOLFOUT%
+echo: >> %GOLFOUT%
+echo ``` >> %GOLFOUT%
+echo you'll need to input an integer here
+java %SRC%\A.java >> %GOLFOUT%
+echo ``` >> %GOLFOUT%

@@ -1,32 +1,30 @@
 standard solution 
  
 ``` 
- 
 Josh Johnson
 
 
 Please enter the size of your desired Matrix: 9
 
 
-100110101
-110111101
-110001111
-000000101
-110010001
-000011101
-110111000
-100010001
-110110001
+001011100
+001010111
+101010111
+100100011
+110101001
+110011001
+110101110
+000100100
+010111010
 
-Fraction of 0s: 40/81
-Fraction of 1s: 41/81
+Fraction of 0s: 39/81
+Fraction of 1s: 42/81
 
-row sums: 5 7 6 2 4 4 5 3 5 
-Largest row sum: 7  at index 1
+row sums: 4 5 6 4 5 5 6 2 5 
+Largest row sum: 6  at index 2
 
-collumn sums: 7 5 0 4 7 4 5 1 8 
-Largest collumn sum: 8  at index 8
+collumn sums: 5 4 3 5 5 5 5 5 5 
+Largest collumn sum: 5  at index 0
 
-columns win
- 
+rows win
 ``` 
