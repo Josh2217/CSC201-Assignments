@@ -4,7 +4,7 @@ standard
 Josh Johnson
 ============
 
-Input three integers seperated by whitespace: 1 2 3
+Input three integers seperated by whitespace: 
 their average is 2.00
 their sum is 6
 their product is 6

@@ -21,7 +21,7 @@ class Assignment4{
 
         for(int i = 0; i < arr.length; ++i)
             for(int j = 0; j < arr[i].length; ++j)
-                arr[i][j] = rand.nextBoolean() ? 1 : 0;
+                arr[i][j] = rand.nextInt(2);
 
         int diagSum, maxRowSum[], maxColSum[], colSums[], rowSums[], count;
         colSums = new int[size];

@@ -2,6 +2,7 @@
     "java.project.sourcePaths": [
         "src\\assignment02",
         "src\\assignment03",
-        "src\\assignment04"
+        "src\\assignment04",
+        "src\\assignment05"
     ]
 }
