@@ -3,7 +3,7 @@
 public class MyRectangle2D {
     private double x, y, width, height;
     
-    /*I wish I could just right "public: " once 
+    /*I wish I could just write "public: " once 
     (like in c++) and not have to repeat it 
     for EVERY SINGLE METHOD AND CONSTRUCTOR*/
 
