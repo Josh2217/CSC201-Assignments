@@ -1,0 +1,139 @@
+
+Trial 1
+=============================
+ 1 switches:          1 steps
+ 2 switches:          4 steps
+ 3 switches:          3 steps
+ 4 switches:         40 steps
+ 5 switches:         11 steps
+ 6 switches:         10 steps
+ 7 switches:         41 steps
+ 8 switches:        266 steps
+ 9 switches:       1099 steps
+10 switches:        506 steps
+11 switches:       3665 steps
+12 switches:       2218 steps
+13 switches:      41449 steps
+14 switches:       2254 steps
+15 switches:      11553 steps
+16 switches:      73074 steps
+17 switches:     100993 steps
+18 switches:     148434 steps
+19 switches:     221923 steps
+20 switches:     913448 steps
+
+Trial 2
+=============================
+ 1 switches:          1 steps
+ 2 switches:          2 steps
+ 3 switches:          3 steps
+ 4 switches:         14 steps
+ 5 switches:         19 steps
+ 6 switches:         26 steps
+ 7 switches:         39 steps
+ 8 switches:         10 steps
+ 9 switches:       1125 steps
+10 switches:       1060 steps
+11 switches:       1447 steps
+12 switches:       2940 steps
+13 switches:       7589 steps
+14 switches:      14842 steps
+15 switches:      21433 steps
+16 switches:      12724 steps
+17 switches:     120313 steps
+18 switches:      81926 steps
+19 switches:     787287 steps
+20 switches:      33172 steps
+
+Trial 3
+=============================
+ 1 switches:          1 steps
+ 2 switches:          2 steps
+ 3 switches:          7 steps
+ 4 switches:         32 steps
+ 5 switches:         63 steps
+ 6 switches:         22 steps
+ 7 switches:         53 steps
+ 8 switches:        868 steps
+ 9 switches:        431 steps
+10 switches:        518 steps
+11 switches:       5883 steps
+12 switches:        152 steps
+13 switches:      14881 steps
+14 switches:      25162 steps
+15 switches:      39877 steps
+16 switches:        612 steps
+17 switches:     100843 steps
+18 switches:     355436 steps
+19 switches:     184575 steps
+20 switches:    1367666 steps
+
+Trial 4
+=============================
+ 1 switches:          1 steps
+ 2 switches:          4 steps
+ 3 switches:          3 steps
+ 4 switches:         36 steps
+ 5 switches:         13 steps
+ 6 switches:         74 steps
+ 7 switches:        165 steps
+ 8 switches:        258 steps
+ 9 switches:        283 steps
+10 switches:        210 steps
+11 switches:       3247 steps
+12 switches:       3204 steps
+13 switches:      25461 steps
+14 switches:       1018 steps
+15 switches:       1539 steps
+16 switches:       7426 steps
+17 switches:     131135 steps
+18 switches:     280926 steps
+19 switches:      90461 steps
+20 switches:     333462 steps
+
+Trial 5
+=============================
+ 1 switches:          1 steps
+ 2 switches:          4 steps
+ 3 switches:          5 steps
+ 4 switches:         16 steps
+ 5 switches:        109 steps
+ 6 switches:          8 steps
+ 7 switches:         25 steps
+ 8 switches:        306 steps
+ 9 switches:        905 steps
+10 switches:        528 steps
+11 switches:        711 steps
+12 switches:       6504 steps
+13 switches:       7329 steps
+14 switches:      40992 steps
+15 switches:      99405 steps
+16 switches:     249106 steps
+17 switches:     260611 steps
+18 switches:     598632 steps
+19 switches:     200037 steps
+20 switches:     736910 steps
+
+Avgs:
+=============================
+ 1 switches:          1 steps
+ 2 switches:          3 steps
+ 3 switches:          4 steps
+ 4 switches:         27 steps
+ 5 switches:         43 steps
+ 6 switches:         28 steps
+ 7 switches:         64 steps
+ 8 switches:        341 steps
+ 9 switches:        768 steps
+10 switches:        564 steps
+11 switches:       2990 steps
+12 switches:       3003 steps
+13 switches:      19341 steps
+14 switches:      16853 steps
+15 switches:      34761 steps
+16 switches:      68588 steps
+17 switches:     142779 steps
+18 switches:     293070 steps
+19 switches:     296856 steps
+20 switches:     676931 steps
+=============================

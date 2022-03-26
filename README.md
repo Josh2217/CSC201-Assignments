@@ -7,7 +7,9 @@ You can run the batch files in the `.build` directory to run the code for each a
 
 I'm inclined to say this falls under the widly loved license: WTFPL. Do whatever you want, but I will say one thing...
 
-Plagiarism is bad: please don't steal these solutions and try to pass them off as your own. If you do and I find out, I'll be very sad and will have to private this repo. If you're inspired to use "similar methods" as I did, I don't care. That being said, please don't copy me verbatim because as I stated earlier, plagiarism is bad.
+**Plagiarism is bad**: please don't steal these solutions and try to pass them off as your own. If you do and I find out, I'll be very sad and will have to private this repo. If you're inspired to use "similar methods" as I did, I don't care. That being said, please don't copy me verbatim because as I stated earlier, plagiarism is bad.
+
+*Because the above clause was not listened to, I will now only post the source code after the assignments are due.*
 
 Thanks
 
