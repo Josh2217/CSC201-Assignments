@@ -23,7 +23,8 @@ class Assignment8 {
 			thread_count = scan.nextInt();
 			break;
 		}
-
+		scan.close();
+		
 		for(int i = 1; i <= thread_count; ++i){
 			var thread = new TotallyNecessaryThread(target, i);
 			thread.start();
